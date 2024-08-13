@@ -193,6 +193,7 @@ def main():
         st.image('About/Long.jpg', caption='MSV: 715102125', width= 500)
         st.markdown("""
         Nhiệm vụ trong dự án: 
+        * Code chương trình xử lý ảnh nâng cao (advanced.py)
         * Code chương trình xử lý ảnh thường (normal.py)
         * Làm powerpoint 
         * Hỗ trợ xây dựng App (gamma.py)
